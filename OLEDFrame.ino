@@ -20,6 +20,8 @@
             if you want to use them. 
             
 Go to the *selection of gizDuino Boards to use.
+
+Note: Replace .bmp images with your own images in .bmp format.
 */           
 
 #include <SD.h>
